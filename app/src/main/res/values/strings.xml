@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyApplicationTryHard</string>
+    <string name="name">Ney Casilla</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="linear_layout_vertical">Linear Layout Veritcal</string>
+    <string name="table_layout">Table Layout</string>
+</resources>
